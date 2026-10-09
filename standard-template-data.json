@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-08-31T02:59:34.393968788Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-10-09T07:12:30.822305387Z",
     "templateType": "trip_d",
     "propertyId": "9d4a8391-04c7-4fee-a9fb-b6f5378683ed",
     "homepageId": "d3aca996-0203-45a6-a192-91f7eaebcbfa"
@@ -22,13 +22,16 @@
     "checkin": "14:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※입퇴실 시간을 반드시 지켜주세요.\n※22시 이후 입실 시 사전문의 필수",
-    "usageGuide": "- 공지 미확인으로 인한 책임은 예약자에게 있습니다.\n- 펜션 내 외부 시설물 훼손/비품 분실에 대한 책임은 투숙객에게 있으며, 배상비용이 청구될 수 있습니다.\n- 실외 바베큐장, 수영장, 노래방 청소는 다음 손님을 위해 10:00부터 시작됩니다.\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※입퇴실 시간을 반드시 지켜주세요.\n※22시 이후 입실 시 사전문의 필수\n\n[인원추가요금]\n※최대 인원 초과시 입실 불가\n\n[개별바베큐]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~22:00\n- 제공 구성: 숯, 그릴, 집게, 가위\n※ 숯/그릴/개인화기 개인 지참 가능 (개인지참 시 비용 발생X)\n※ 장작 사용 금지\n※ 입실 하루 전까지 사전 예약\n\n[개별수영장]\n[실내 미온수 수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수 100,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~21:00\n- 이용 복장: 래쉬가드, 수영복, 기능성 티, 면류는 절대 불가\n- 수영장 크기: 느루독채-가로 3.5m X 세로 5.5m X 물높이 1m / 다감스테이독채-가로 4.5m X 세로 7m X 물높이 1m\n- 온도: 미온수 30℃~33℃\n- 운영 기간: 사계절\n※ 펜션 사전 예약 필수 (당일 신청 불가)\n※ 온천이나 목욕탕 물처럼 뜨겁지 않습니다.\n※ 별도의 안전요원이 없으므로 영유아나 어린이는 반드시 구명조끼 착용 후 보호자 동반 필요\n\n[실내 냉수 수영장]\n- 이용 객실: 전 객실\n- 이용 요금: 7~8월 냉수 50,000원, 7~8월 미온수 신청 시 100,000원 (1박기준/현장결제)\n※ 펜션 사전 예약 필수 (당일 신청 불가)\n\n[운동시설]\n- 미니운동장 (공, 라켓 등 개별 준비 필수)\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 이마트24\n- 유리섬 박물관 (차량 15분)\n- 대부 해솔길 (차량 15분)\n- 누에섬 등대전망대 (차량 10분)\n- 달전망대 (차량 20분)\n- 방아머리 해수욕장 (차량 20분)\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n대부도 펜션타운 내 위치하고 있습니다.",
+    "usageGuide": "[공지사항]\n- 공지 미확인으로 인한 책임은 예약자에게 있습니다.\n- 펜션 내 외부 시설물 훼손/비품 분실에 대한 책임은 투숙객에게 있으며, 배상비용이 청구될 수 있습니다.\n- 실외 바베큐장, 수영장, 노래방 청소는 다음 손님을 위해 10:00부터 시작됩니다.\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※입퇴실 시간을 반드시 지켜주세요.\n※22시 이후 입실 시 사전문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 5세 이상\n- 아동: 24개월 이상~5세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※최대 인원 초과시 입실 불가\n\n[개별바베큐]\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~22:00\n- 제공 구성: 숯, 그릴, 집게, 가위\n※ 숯/그릴/개인화기 개인 지참 가능 (개인지참 시 비용 발생X)\n※ 장작 사용 금지\n※ 입실 하루 전까지 사전 예약\n\n[개별수영장]\n[실내 미온수 수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수 100,000원 (1박기준/현장결제)\n- 이용 시간: 입실후~21:00\n- 이용 복장: 래쉬가드, 수영복, 기능성 티, 면류는 절대 불가\n- 수영장 크기: 느루독채-가로 3.5m X 세로 5.5m X 물높이 1m / 다감스테이독채-가로 4.5m X 세로 7m X 물높이 1m\n- 온도: 미온수 30℃~33℃\n- 운영 기간: 사계절\n※ 펜션 사전 예약 필수 (당일 신청 불가)\n※ 온천이나 목욕탕 물처럼 뜨겁지 않습니다.\n※ 별도의 안전요원이 없으므로 영유아나 어린이는 반드시 구명조끼 착용 후 보호자 동반 필요\n\n[실내 냉수 수영장]\n- 이용 객실: 전 객실\n- 이용 요금: 7~8월 냉수 50,000원, 7~8월 미온수 신청 시 100,000원 (1박기준/현장결제)\n※ 펜션 사전 예약 필수 (당일 신청 불가)\n\n[운동시설]\n- 미니운동장 (공, 라켓 등 개별 준비 필수)\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 이마트24\n- 유리섬 박물관 (차량 15분)\n- 대부 해솔길 (차량 15분)\n- 누에섬 등대전망대 (차량 10분)\n- 달전망대 (차량 20분)\n- 방아머리 해수욕장 (차량 20분)\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n대부도 펜션타운 내 위치하고 있습니다.",
     "reservationGuide": "- 공지 미확인으로 인한 책임은 예약자에게 있습니다.\n- 펜션 내 외부 시설물 훼손/비품 분실에 대한 책임은 투숙객에게 있으며, 배상비용이 청구될 수 있습니다.\n- 실외 바베큐장, 수영장, 노래방 청소는 다음 손님을 위해 10:00부터 시작됩니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "neurudagam.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/3854",
     "ybsId": "70473",
+    "tripPropertyId": "3854",
+    "partnerType": "sales_agency",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "편의점/매점"
@@ -298,7 +301,7 @@
           {
             "id": "beb4987d-9bf1-426d-b9e5-1603722c88a8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/A0QzW3dpEmBu.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -308,7 +311,7 @@
           {
             "id": "0f75f270-6bd5-49d9-a55b-55355998dd02",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/8WVT2xnfk5tu.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +319,7 @@
           {
             "id": "286dd336-c91f-4453-b87b-46e3acaf8e7b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/6hAf8rpvF7We.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -324,7 +327,7 @@
           {
             "id": "3bc08205-7778-4999-b9ac-1f5fd38d8e88",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/jxEORlHStfgu.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -332,7 +335,7 @@
           {
             "id": "80bf86d9-aa06-4957-bf36-78cc8b8f9b3a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/PK7rLplJZV4I.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -340,7 +343,7 @@
           {
             "id": "e7d77047-1610-46da-bfbc-6d958440aa5e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/IBU60OGX1iE7.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -348,7 +351,7 @@
           {
             "id": "7ba01056-f93f-4664-b693-c082a1c41162",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/GtTrg2qIW05h.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -356,7 +359,7 @@
           {
             "id": "92261083-8c71-40b0-bd04-c478952388c5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/b3qR267UOnaC.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -364,7 +367,7 @@
           {
             "id": "b43101d5-1bec-498a-9cf2-ebc81091999a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/n1B4sCeUXPfV.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -372,7 +375,7 @@
           {
             "id": "97e6a424-236e-42fa-b9db-04d53ef1fe09",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/Shksdqut2po9.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -380,7 +383,7 @@
           {
             "id": "f46dbb58-f6da-49a4-8544-7abd5ba7f312",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/yIriXC5ptKNM.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +391,7 @@
           {
             "id": "1a87e3e6-c7ae-4f0e-91a4-e321c8506a8b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/0CkUswGMWmbL.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +399,7 @@
           {
             "id": "1722b65d-002d-4d40-9bfe-1ede4f0ca929",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2023/10/27/yNJYRuXBaPeq.jpg",
-            "sortOrder": 11,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1184,6 +1187,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
